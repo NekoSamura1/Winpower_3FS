@@ -1,5 +1,5 @@
 # Winpower_3FS
-this stuff was made to use with ESP-32 and oxygen analyzer winpoer 3FS, bu i have not used any hardware-specific code, i guess, so it should work fine not only on intrnded platform.
+this stuff was made to use with ESP-32 and oxygen analyzer Winpower 3FS, bu i have not used any hardware-specific code, i guess, so it should work fine not only on intrnded platform.
 
 # How to use:
 
